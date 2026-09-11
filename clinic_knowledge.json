@@ -1,0 +1,48 @@
+{
+  "clinic_name": "CarePlus Multispeciality Clinic",
+  "about": "CarePlus Multispeciality Clinic provides general medical consultation and basic outpatient healthcare services.",
+
+  "contact": {
+    "phone": "+91 98765 43210",
+    "email": "careplusclinic@example.com"
+  },
+
+  "location": {
+    "address": "123 Main Road, Salem, Tamil Nadu, India",
+    "landmark": "Near Central Bus Stand"
+  },
+
+  "working_hours": {
+    "monday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "tuesday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "wednesday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "thursday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "friday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "saturday": "9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM",
+    "sunday": "Closed"
+  },
+
+  "services": [
+    "General physician consultation",
+    "Routine health check-ups",
+    "Blood pressure monitoring",
+    "Diabetes screening",
+    "Basic laboratory tests",
+    "Preventive healthcare consultation"
+  ],
+
+  "appointment": {
+    "booking_method": "Patients can call the clinic to request an appointment.",
+    "phone": "+91 98765 43210",
+    "walk_ins": "Walk-in consultations are accepted subject to doctor availability."
+  },
+
+  "consultation_fee": {
+    "general_consultation": "₹300"
+  },
+
+  "policies": {
+    "appointment_cancellation": "Patients are requested to inform the clinic in advance if they need to cancel or reschedule.",
+    "emergency": "For medical emergencies, contact local emergency medical services or visit the nearest emergency department."
+  }
+}
